@@ -1,0 +1,6 @@
+{
+  "name": "Remix: GitHub Repo → Auto Architecture Generator",
+  "description": "Automatically analyze GitHub repositories to generate 2D/3D architecture diagrams and detailed system design explanations using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
